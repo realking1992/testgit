@@ -12,3 +12,7 @@
 - `git remote add origin git@github.com:***/***.git`将本地的仓库关联到GitHub上
 - `git pull origin master`上传前，要先pull一下
 - `git push -u origin master`上传代码到GitHub远程仓库（`git push origin master`）
+
+
+
+![MDpic](testmarkdown.assets/MDpic.jpg)
